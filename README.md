@@ -8,3 +8,5 @@ Material design link: https://material.io/develop/android/docs/getting-started
 # Home Screen
 ![alt text](/screenshots/home.PNG)
 
+
+Here every Text Input layout represent the different properties that can be used for better UI and validations like Password, word count, required validation and so on
